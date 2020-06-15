@@ -1,0 +1,60 @@
+PCAD Importer Log
+Project : lab4.PrjPcb
+
+Section : C:\Users\Сергей\Desktop\Lab04\lab4.PCB
+    Section : Load Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 339
+        Warning - 1 : Skipping Token defaultPinDes On Line 340
+        Warning - 1 : Skipping Token attachedSymbol On Line 529
+        Warning - 1 : Skipping Token attachedSymbol On Line 553
+        Warning - 1 : Skipping Token attachedSymbol On Line 577
+        Warning - 1 : Skipping Token attachedSymbol On Line 600
+        Warning - 1 : Skipping Token attachedSymbol On Line 622
+        Warning - 1 : Skipping Token attachedSymbol On Line 645
+        Warning - 1 : Skipping Token attachedSymbol On Line 667
+        Warning - 1 : Skipping Token attachedSymbol On Line 689
+        Warning - 1 : Skipping Token attachedSymbol On Line 709
+        Warning - 1 : Skipping Token attachedSymbol On Line 733
+        Warning - 1 : Skipping Token attachedSymbol On Line 755
+        Warning - 1 : Skipping Token attachedSymbol On Line 777
+        Warning - 1 : Skipping Token refPointSize On Line 958
+        Warning - 1 : Skipping Token infoPointSize On Line 959
+        Warning - 1 : Skipping Token gluePointSize On Line 960
+        Warning - 1 : Skipping Token pickPointSize On Line 961
+        Warning - 1 : Skipping Token testPointSize On Line 962
+        Warning - 1 : Skipping Token refPointSizePrint On Line 963
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 964
+        Warning - 1 : Skipping Token gluePointSizePrint On Line 965
+        Warning - 1 : Skipping Token pickPointSizePrint On Line 966
+        Warning - 1 : Skipping Token testPointSizePrint On Line 967
+        Warning - 1 : Skipping Token solderFlowDirection On Line 968
+        Warning - 1 : Skipping Token globalCopperPourCutoutBackoffFlag On Line 969
+        Warning - 1 : Skipping Token useLegacyBackoffAlgorithm On Line 970
+        Warning - 1 : Skipping Token useLegacyCupourIslandGenerationAlgorithm On Line 971
+        Warning - 1 : Skipping Token drillSymSettings On Line 1276
+        Warning - 1 : Skipping Token gerberSettings On Line 1278
+        Warning - 1 : Skipping Token ncDrillSettings On Line 1292
+        Warning - 1 : Skipping Token programState On Line 1301
+        Warning - 1 : Skipping Token displayDrawOrder On Line 1342
+        Warning - 1 : Skipping Token reportSettings On Line 1565
+        Warning - 1 : Skipping Token odbSettings On Line 2262
+    EndSection
+
+    Section : Import Messages
+        Warning : Mounting Hole Pad Converted To Rounded Pad
+        Warning : Mounting Hole Pad Converted To Rounded Pad
+        Warning : Mounting Hole Pad Converted To Rounded Pad
+        Warning : Mounting Hole Pad Converted To Rounded Pad
+        Warning : Mounting Hole Pad Converted To Rounded Pad
+        Warning : Mounting Hole Pad Converted To Rounded Pad
+        Warning : Mounting Hole Pad Converted To Rounded Pad
+        Warning : Mounting Hole Pad Converted To Rounded Pad
+        Warning : Mounting Hole Pad Converted To Rounded Pad
+        Warning : Mounting Hole Pad Converted To Rounded Pad
+        Warning : Mounting Hole Pad Converted To Rounded Pad
+        Warning : Mounting Hole Pad Converted To Rounded Pad
+        Warning : Mounting Hole Pad Converted To Rounded Pad
+        Warning : Mounting Hole Pad Converted To Rounded Pad
+        Warning : Mounting Hole Pad Converted To Rounded Pad
+    EndSection
+EndSection

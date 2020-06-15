@@ -1,0 +1,150 @@
+PCAD Importer Log
+Project : —“¿¡»À»«¿“-MM.LibPkg
+
+Section : C:\Users\—Â„ÂÈ\Desktop\—“¿¡»À»«¿“-MM.LIA
+    Section : PCB Library - —“¿¡»À»«¿“-MM.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 955
+            Warning - 1 : Skipping Token defaultPinDes On Line 956
+            Warning - 1 : Skipping Token defaultPinDes On Line 957
+            Warning - 1 : Skipping Token 142≈Õ On Line 974
+            Warning - 1 : Skipping Token 142≈Õ12 On Line 1012
+            Warning - 1 : Skipping Token BATAR On Line 1043
+            Warning - 1 : Skipping Token DC-DC1 On Line 1070
+            Warning - 1 : Skipping Token IVE 25/5 On Line 1125
+            Warning - 1 : Skipping Token LM2673 On Line 1189
+            Warning - 1 : Skipping Token RESET On Line 1264
+            Warning - 1 : Skipping Token TL431 On Line 1295
+            Warning - 1 : Skipping Token  1009≈Õ24 On Line 1328
+            Warning - 1 : Skipping Token  –142≈Õ On Line 1408
+            Warning - 1 : Skipping Token attachedSymbol On Line 1454
+            Warning - 1 : Skipping Token attachedSymbol On Line 1480
+            Warning - 1 : Skipping Token attachedSymbol On Line 1506
+            Warning - 1 : Skipping Token attachedSymbol On Line 1529
+            Warning - 1 : Skipping Token attachedSymbol On Line 1552
+            Warning - 1 : Skipping Token attachedSymbol On Line 1574
+            Warning - 1 : Skipping Token attachedSymbol On Line 1595
+            Warning - 1 : Skipping Token attachedSymbol On Line 1617
+            Warning - 1 : Skipping Token attachedSymbol On Line 1642
+            Warning - 1 : Skipping Token attachedSymbol On Line 1669
+            Warning - 1 : Skipping Token attachedSymbol On Line 1696
+            Warning - 1 : Skipping Token attachedSymbol On Line 1721
+            Warning - 1 : Skipping Token attachedSymbol On Line 1744
+            Warning - 1 : Skipping Token attachedSymbol On Line 1767
+            Warning - 1 : Skipping Token attachedSymbol On Line 1790
+            Warning - 1 : Skipping Token attachedSymbol On Line 1814
+            Warning - 1 : Skipping Token attachedSymbol On Line 1838
+            Warning - 1 : Skipping Token attachedSymbol On Line 1866
+            Warning - 1 : Skipping Token attachedSymbol On Line 1894
+            Warning - 1 : Skipping Token attachedSymbol On Line 1918
+            Warning - 1 : Skipping Token attachedSymbol On Line 1942
+            Warning - 1 : Skipping Token attachedSymbol On Line 1965
+            Warning - 1 : Skipping Token attachedSymbol On Line 1993
+            Warning - 1 : Skipping Token attachedSymbol On Line 2021
+        EndSection
+
+        Section : Import Messages
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Target Pad Converted To Rounded Pad
+            Warning : Testpoint at (0mil,135mil) ignored as no pad or via was found.
+            Warning : Testpoint at (-39.37mil,37.795mil) ignored as no pad or via was found.
+        EndSection
+    EndSection
+
+    Section : SCH Library - —“¿¡»À»«¿“-MM.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 34
+            Warning - 1 : Skipping Token padStyleDef On Line 44
+            Warning - 1 : Skipping Token padStyleDef On Line 54
+            Warning - 1 : Skipping Token padStyleDef On Line 64
+            Warning - 1 : Skipping Token padStyleDef On Line 74
+            Warning - 1 : Skipping Token padStyleDef On Line 84
+            Warning - 1 : Skipping Token padStyleDef On Line 94
+            Warning - 1 : Skipping Token padStyleDef On Line 104
+            Warning - 1 : Skipping Token padStyleDef On Line 114
+            Warning - 1 : Skipping Token padStyleDef On Line 124
+            Warning - 1 : Skipping Token padStyleDef On Line 134
+            Warning - 1 : Skipping Token padStyleDef On Line 145
+            Warning - 1 : Skipping Token padStyleDef On Line 156
+            Warning - 1 : Skipping Token padStyleDef On Line 167
+            Warning - 1 : Skipping Token padStyleDef On Line 178
+            Warning - 1 : Skipping Token padStyleDef On Line 189
+            Warning - 1 : Skipping Token padStyleDef On Line 200
+            Warning - 1 : Skipping Token padStyleDef On Line 211
+            Warning - 1 : Skipping Token viaStyleDef On Line 222
+            Warning - 1 : Skipping Token multiLayer On Line 376
+            Warning - 1 : Skipping Token layerContents On Line 384
+            Warning - 1 : Skipping Token multiLayer On Line 424
+            Warning - 1 : Skipping Token layerContents On Line 434
+            Warning - 1 : Skipping Token multiLayer On Line 459
+            Warning - 1 : Skipping Token layerContents On Line 464
+            Warning - 1 : Skipping Token multiLayer On Line 483
+            Warning - 1 : Skipping Token layerContents On Line 487
+            Warning - 1 : Skipping Token multiLayer On Line 505
+            Warning - 1 : Skipping Token layerContents On Line 510
+            Warning - 1 : Skipping Token multiLayer On Line 530
+            Warning - 1 : Skipping Token layerContents On Line 534
+            Warning - 1 : Skipping Token multiLayer On Line 552
+            Warning - 1 : Skipping Token layerContents On Line 559
+            Warning - 1 : Skipping Token multiLayer On Line 577
+            Warning - 1 : Skipping Token layerContents On Line 584
+            Warning - 1 : Skipping Token multiLayer On Line 601
+            Warning - 1 : Skipping Token layerContents On Line 608
+            Warning - 1 : Skipping Token multiLayer On Line 630
+            Warning - 1 : Skipping Token layerContents On Line 635
+            Warning - 1 : Skipping Token multiLayer On Line 657
+            Warning - 1 : Skipping Token layerContents On Line 662
+            Warning - 1 : Skipping Token multiLayer On Line 680
+            Warning - 1 : Skipping Token layerContents On Line 686
+            Warning - 1 : Skipping Token multiLayer On Line 720
+            Warning - 1 : Skipping Token layerContents On Line 725
+            Warning - 1 : Skipping Token multiLayer On Line 759
+            Warning - 1 : Skipping Token layerContents On Line 764
+            Warning - 1 : Skipping Token multiLayer On Line 782
+            Warning - 1 : Skipping Token layerContents On Line 787
+            Warning - 1 : Skipping Token multiLayer On Line 806
+            Warning - 1 : Skipping Token layerContents On Line 811
+            Warning - 1 : Skipping Token multiLayer On Line 831
+            Warning - 1 : Skipping Token layerContents On Line 836
+            Warning - 1 : Skipping Token multiLayer On Line 856
+            Warning - 1 : Skipping Token layerContents On Line 866
+            Warning - 1 : Skipping Token multiLayer On Line 893
+            Warning - 1 : Skipping Token layerContents On Line 898
+            Warning - 1 : Skipping Token multiLayer On Line 915
+            Warning - 1 : Skipping Token layerContents On Line 923
+            Warning - 1 : Skipping Token layerContents On Line 943
+            Warning - 1 : Skipping Token multiLayer On Line 954
+            Warning - 1 : Skipping Token layerContents On Line 961
+            Warning - 1 : Skipping Token layerContents On Line 969
+            Warning - 1 : Skipping Token defaultPinDes On Line 1050
+            Warning - 1 : Skipping Token defaultPinDes On Line 1057
+            Warning - 1 : Skipping Token defaultPinDes On Line 1078
+            Warning - 1 : Skipping Token defaultPinDes On Line 1086
+            Warning - 1 : Skipping Token defaultPinDes On Line 1094
+            Warning - 1 : Skipping Token defaultPinDes On Line 1102
+            Warning - 1 : Skipping Token defaultPinDes On Line 1110
+            Warning - 1 : Skipping Token defaultPinDes On Line 1197
+            Warning - 1 : Skipping Token defaultPinDes On Line 1205
+            Warning - 1 : Skipping Token defaultPinDes On Line 1213
+            Warning - 1 : Skipping Token defaultPinDes On Line 1221
+            Warning - 1 : Skipping Token defaultPinDes On Line 1229
+            Warning - 1 : Skipping Token defaultPinDes On Line 1237
+            Warning - 1 : Skipping Token defaultPinDes On Line 1245
+            Warning - 1 : Skipping Token defaultPinDes On Line 1415
+            Warning - 1 : Skipping Token defaultPinDes On Line 1422
+            Warning - 1 : Skipping Token defaultPinDes On Line 1429
+        EndSection
+
+        Section : Generating SCH Library - —“¿¡»À»«¿“-MM.SchLib
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,50 @@
+PCAD Importer Log
+Project : lab3.PrjPcb
+
+Section : C:\Users\Сергей\Desktop\Lab03\lab3.SCH
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 126
+        Warning - 1 : Skipping Token defaultPinDes On Line 134
+        Warning - 1 : Skipping Token defaultPinDes On Line 154
+        Warning - 1 : Skipping Token defaultPinDes On Line 162
+        Warning - 1 : Skipping Token defaultPinDes On Line 179
+        Warning - 1 : Skipping Token defaultPinDes On Line 187
+        Warning - 1 : Skipping Token defaultPinDes On Line 206
+        Warning - 1 : Skipping Token defaultPinDes On Line 214
+        Warning - 1 : Skipping Token defaultPinDes On Line 230
+        Warning - 1 : Skipping Token defaultPinDes On Line 238
+        Warning - 1 : Skipping Token defaultPinDes On Line 246
+        Warning - 1 : Skipping Token defaultPinDes On Line 361
+        Warning - 1 : Skipping Token defaultPinDes On Line 370
+        Warning - 1 : Skipping Token defaultPinDes On Line 384
+        Warning - 1 : Skipping Token defaultPinDes On Line 400
+        Warning - 1 : Skipping Token defaultPinDes On Line 407
+        Warning - 1 : Skipping Token defaultPinDes On Line 414
+        Warning - 1 : Skipping Token defaultPinDes On Line 421
+        Warning - 1 : Skipping Token defaultPinDes On Line 446
+        Warning - 1 : Skipping Token defaultPinDes On Line 454
+        Warning - 1 : Skipping Token defaultPinDes On Line 462
+        Warning - 1 : Skipping Token defaultPinDes On Line 470
+        Warning - 1 : Skipping Token gridDfns On Line 911
+        Warning - 1 : Skipping Token refPointSize On Line 933
+        Warning - 1 : Skipping Token infoPointSize On Line 934
+        Warning - 1 : Skipping Token junctionSize On Line 935
+        Warning - 1 : Skipping Token refPointSizePrint On Line 936
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 937
+        Warning - 1 : Skipping Token junctionSizePrint On Line 938
+        Warning - 1 : Skipping Token PrintRegion On Line 1086
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 1090
+        Warning - 1 : Skipping Token ecoState On Line 1105
+        Warning - 1 : Skipping Token currentTextStyle On Line 1106
+        Warning - 1 : Skipping Token reportSettings On Line 1109
+    EndSection
+
+    Section : Generating SCH Library - lab3.SchLib
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+EndSection
